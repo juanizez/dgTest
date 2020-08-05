@@ -1,0 +1,7 @@
+{
+	"name": "ir-datafactory",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "conexión local"
+	}
+}
